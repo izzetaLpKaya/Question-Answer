@@ -1,6 +1,6 @@
-This project is still being developed — PRs, Contributions and Issues are all welcome!
 
-# Getting started
+
+# Start
 
 To get the Node server running locally:
 
